@@ -1,0 +1,18 @@
+main{
+  background-color: lightgrey;
+background-image: url('naturebackground.jpg');
+background-repeat: no-repeat;
+}
+
+.main{
+  color: red;
+  text-align: center;
+}
+
+.bordermessage{
+  height: 82px;
+  width: 770px;
+  border-style: double;
+  border-width: thick;
+  margin:auto;
+}
